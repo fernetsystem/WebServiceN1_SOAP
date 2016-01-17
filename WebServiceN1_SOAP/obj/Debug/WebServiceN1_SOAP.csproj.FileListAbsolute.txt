@@ -1,0 +1,6 @@
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\bin\WebServiceN1_SOAP.dll.config
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\bin\WebServiceN1_SOAP.dll
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\bin\WebServiceN1_SOAP.pdb
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\obj\Debug\WebServiceN1_SOAP.csprojResolveAssemblyReference.cache
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\obj\Debug\WebServiceN1_SOAP.dll
+c:\users\ferne_000\documents\visual studio 2013\Projects\WebServiceN1_SOAP\WebServiceN1_SOAP\obj\Debug\WebServiceN1_SOAP.pdb
