@@ -18,9 +18,11 @@ namespace WebServiceN1_SOAP
     {
 
         [WebMethod]
-        public string HelloWorld()
+        public string Cadena1()
         {
-            return "Hello World";
+            return "Servicio Elity.com";
+        }
+        
         }
     }
 }
