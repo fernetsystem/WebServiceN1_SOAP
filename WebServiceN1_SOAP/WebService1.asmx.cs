@@ -23,6 +23,10 @@ namespace WebServiceN1_SOAP
             return "Servicio Elity.com";
         }
         
+        [WebMethod]
+        public double getSum(double numero1,double numero2)
+        {
+            return numero1 + numero2;
         }
     }
 }
